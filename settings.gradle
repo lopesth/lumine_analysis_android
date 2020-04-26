@@ -1,0 +1,2 @@
+rootProject.name='lumine_analysis'
+include ':app'
